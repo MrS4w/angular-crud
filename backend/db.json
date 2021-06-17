@@ -9,6 +9,11 @@
       "name": "Jerry only",
       "price": "1234.5",
       "id": 3
+    },
+    {
+      "name": "Teste",
+      "price": "100",
+      "id": 5
     }
   ]
 }
