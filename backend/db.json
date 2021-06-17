@@ -1,14 +1,14 @@
 {
   "products": [
     {
-      "name": "Produto de teste",
-      "price": 125.98,
-      "id": 1
-    },
-    {
       "name": "Via formulário Update",
       "price": "666.12",
       "id": 2
+    },
+    {
+      "name": "Jerry only",
+      "price": "1234.5",
+      "id": 3
     }
   ]
 }
