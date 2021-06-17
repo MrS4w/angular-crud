@@ -24,4 +24,8 @@ export class ProductCreateComponent implements OnInit {
       this.router.navigate(['products']);
     });
   }
+
+  cancel() {
+    this.router.navigate(['products']);
+  }
 }
